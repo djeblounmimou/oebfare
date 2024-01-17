@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Python refactorings and simplifications (#7549)
